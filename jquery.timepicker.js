@@ -594,7 +594,7 @@
             },
 			
 			clearSelectedTime: function(i){
-            	i.element.val("");
+            	i.element.val('');
             	
             	return i.element;
             },
